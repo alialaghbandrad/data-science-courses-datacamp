@@ -1,2 +1,2 @@
 # data-science-courses-datacamp
-Course of data science - Datacamp: Exercises
+Courses of data science - Datacamp: Exercises
