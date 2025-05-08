@@ -1,7 +1,7 @@
 Course name:
 "Understanding Data Science"
 
-Course description:
+Description:
 
 What is data science, why is it so popular, and why did the Harvard Business Review hail it as the “sexiest job of the 21st century”? 
 In this non-technical course, you’ll be introduced to everything you were ever too afraid to ask about this fast-growing and exciting field, without needing to write a single line of code. 
